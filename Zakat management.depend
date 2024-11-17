@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1678944281 source:d:\oop project\zakat management\src\admin.cpp
+	<bits/stdc++.h>
+	"Admin.h"
+	"Donor.h"
+	"Receiver.h"
+	"Provider.h"
+
+1678944165 d:\oop project\zakat management\include\admin.h
+	<bits/stdc++.h>
+	"Admin.h"
+	"Fund.h"
+
+1678948570 d:\oop project\zakat management\include\fund.h
+	<bits/stdc++.h>
+	"Fund.h"
+
+1678952619 d:\oop project\zakat management\include\donor.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Zakat_Calculator.h"
+	"Fund.h"
+
+1678957180 d:\oop project\zakat management\include\person.h
+	<bits/stdc++.h>
+	"Person.h"
+
+1678890117 d:\oop project\zakat management\include\zakat_calculator.h
+	<bits/stdc++.h>
+	"Zakat_Calculator.h"
+
+1678929328 source:d:\oop project\zakat management\src\donor.cpp
+	<bits/stdc++.h>
+	"Person.h"
+	"Donor.h"
+
+1678948803 source:d:\oop project\zakat management\src\fund.cpp
+	<bits/stdc++.h>
+	"Fund.h"
+
+1678957302 source:d:\oop project\zakat management\src\person.cpp
+	<bits/stdc++.h>
+	"Person.h"
+
+1678952619 source:d:\oop project\zakat management\src\receiver.cpp
+	<bits/stdc++.h>
+	"Person.h"
+	"Receiver.h"
+
+1678952619 d:\oop project\zakat management\include\receiver.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Receiver.h"
+	"Zakat_Calculator.h"
+	"Fund.h"
+
+1678944119 source:d:\oop project\zakat management\src\zakat_calculator.cpp
+	<bits/stdc++.h>
+	"Zakat_Calculator.h"
+
+1678957402 source:d:\oop project\zakat management\main.cpp
+	<bits/stdc++.h>
+	"Zakat_Calculator.h"
+	"Donor.h"
+	"Fund.h"
+	"Receiver.h"
+	"Provider.h"
+	"Admin.h"
+
+1678948570 source:d:\oop project\zakat management\src\provider.cpp
+	<bits/stdc++.h>
+	"Person.h"
+	"Provider.h"
+
+1678952619 d:\oop project\zakat management\include\provider.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Provider.h"
+	"Fund.h"
+
